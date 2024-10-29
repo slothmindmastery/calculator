@@ -29,6 +29,7 @@ h1 {
   align-content: center;
   margin: 5px;
   margin-left: auto;
+  font-family: monospace;
 }
 
 #buttons {
@@ -45,7 +46,7 @@ button {
   border-radius: 10px;
 }
 
-#zero {
+#button-0 {
   flex: 2 0 44%;
 }
 
